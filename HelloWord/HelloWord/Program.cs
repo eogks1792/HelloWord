@@ -11,6 +11,7 @@ namespace HelloWord
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word!!!!!!!111!");
+            Console.WriteLine("Hello Word!!!!!!!111!");
         }
     }
 }
